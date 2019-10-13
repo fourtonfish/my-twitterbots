@@ -49,6 +49,7 @@ let dataSync = {
                       followers_count: bot.followers_count,
                       friends_count: bot.friends_count,
                       created_at: bot.created_at,
+                      last_tweet_date: bot.status ? bot.status.created_at : null,                    
                       favourites_count: bot.favourites_count,
                       verified: bot.verified,
                       statuses_count: bot.statuses_count,
