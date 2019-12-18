@@ -8,7 +8,7 @@ Based on the [Most Popular Twitter Bots](https://glitch.com/edit/#!/twitterbots)
 
 1. [Create a new Twitter app](https://botwiki.org/resource/tutorial/how-to-create-a-twitter-app/).
 2. Add your API keys to `.env`.
-3. Create a Twitter list with all your bots.
+3. Create a [Twitter list](https://help.twitter.com/en/using-twitter/twitter-lists) with all your bots.
 4. Add your username and your Twitter lists slug to `.env`.
 5. Visit your project's page to see the data.
 
